@@ -1,3 +1,4 @@
 !.gitignore
 .moonraker.conf.bkp
+printer-*_*.cfg
 K-ShakeTune_results/
